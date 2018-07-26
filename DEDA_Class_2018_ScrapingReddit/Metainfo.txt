@@ -1,0 +1,56 @@
+Name of Quantlet:  DEDA_Scraping_Reddit.py
+
+
+
+ 
+
+
+
+Published in:      "Digital Economy and Decision Analytics (SS 18)"
+
+
+
+  
+
+
+
+Description:       "Creating Sentiment for Subreddits"
+
+
+
+ 
+
+
+
+Keywords:          "wordcloud, word frequency, sentiment"
+
+
+
+
+
+
+
+See also :        
+
+
+
+
+
+
+Author:            Constantin Hackober 
+
+
+
+  
+
+
+
+Submitted:         Wed, July 25 2018 by Constantin Hackober
+
+
+
+  
+
+
+
+Datafile:          PY Script
